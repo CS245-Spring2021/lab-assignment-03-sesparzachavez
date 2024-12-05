@@ -10,8 +10,12 @@
  * 3,5,2,1,6,4
  */
 public class Test {
+
+
+
+
     public static void main(String[] args) {
-        int nums[] = {1,5,1,1,6,4}; //replace these numbers to test
+        int nums[] = {1,3,2,2,3,1}; //replace these numbers to test
 
         System.out.println("Nums before wiggle sort: ");
         for(int i=0; i< nums.length; i++){
